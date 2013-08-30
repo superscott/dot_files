@@ -1,21 +1,9 @@
 export PATH="/usr/local/bin:/usr/local/mysql/bin:$PATH"
-export FLEX_HOME=/Users/scottgreen/Documents/flex_workspace/flex_sdk_4.6/
-export PATH=$PATH:/$FLEX_HOME/bin
 
 #export CLICOLOR=1
 #export LSCOLORS=ExFxCxDxBxegedabagacad
 
 #PS1="\[\e[34m\]\u:[\$(date +%k:%M:%S)]\e[00m\]:\[\e[32m\]\w\[\e[00m\]\$ "
-
-alias start_ldap="sh ldap.sh"
-alias start_db="sh reports.sh"
-
-
-source /Users/scottgreen/.rvm/scripts/rvm
-
-
-
-
 
 # Colors from http://wiki.archlinux.org/index.php/Color_Bash_Prompt
 # Misc
