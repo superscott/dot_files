@@ -1,7 +1,8 @@
 export PATH="/usr/local/bin:/usr/local/mysql/bin:$PATH"
 
-#export CLICOLOR=1
-#export LSCOLORS=ExFxCxDxBxegedabagacad
+export CLICOLOR=1
+export LSCOLORS=ExFxCxDxBxegedabagacad
+export TERM=xterm-color
 
 #PS1="\[\e[34m\]\u:[\$(date +%k:%M:%S)]\e[00m\]:\[\e[32m\]\w\[\e[00m\]\$ "
 
